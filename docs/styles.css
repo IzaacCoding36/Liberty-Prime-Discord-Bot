@@ -13,7 +13,7 @@
   --muted:#38ff9c;
 }
 *{box-sizing:border-box}
-html,body{height:100%}
+html,body{height:100%; filter: hue-rotate(320deg);}
 body{
   margin:0; font-family:"VT323", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   color:var(--text);

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "bos-discord-bot-site",
+  "name": "liberty-prime-discord-bot-site",
   "public": true,
   "builds": [
     { "src": "docs/**", "use": "@vercel/static" }
